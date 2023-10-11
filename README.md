@@ -1,4 +1,4 @@
-[![MasterHead](https://iconscout.com/lottie-animation/web-development-work-9688144)
+[![MasterHead](https://dribbble.com/shots/4948736-UI-Developer)
 <h1 align="center">Hi 👋, I'm Kurt Gavin</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
