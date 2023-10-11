@@ -1,7 +1,7 @@
 [![MasterHead](https://dribbble.com/shots/4948736-UI-Developer)
 <h1 align="center">Hi 👋, I'm Kurt Gavin</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinlopez&label=Profile%20views&color=0e75b6&style=flat" alt="gavinlopez" /> </p>
 
