@@ -3,6 +3,9 @@
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinlopez&label=Profile%20views&color=0e75b6&style=flat" alt="gavinlopez" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thinkaboutgav" target="blank"><img src="https://img.shields.io/twitter/follow/thinkaboutgav?logo=twitter&style=for-the-badge" alt="thinkaboutgav" /></a> </p>
