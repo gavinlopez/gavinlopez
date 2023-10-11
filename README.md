@@ -4,6 +4,13 @@
 
 Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 
+<table>
+  <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 46 plugins and 330 options!</a></h3>
+    </th>
+  </tr>
+  <tr>
     <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
     <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
   </tr>
@@ -540,4 +547,3 @@ Copyright (c) 2020-present lowlighter
 ```
 
 ![Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
-
