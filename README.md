@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/23/77/51/23775158bf074369e53fd1841a16d3fa.gif)
+![MasterHead](https://i.pinimg.com/originals/d1/5c/de/d15cdee9e339dbb0fcb5f83a938e1717.gif)
 <h1 align="center">Hi 👋, I'm Kurt Gavin</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/78/49/0d784930fcf326f080df2ec15baccd49.gif">
