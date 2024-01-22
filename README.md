@@ -1,7 +1,7 @@
 ![MasterHead](https://static.tumblr.com/f8e28129e52abd4c71e4e3b0a36f64f0/1jasfmi/I4Vnjto2o/tumblr_static_dojdl1akyxw0gw8gwkos0w8cg.gif)
 <h1 align="center">Hi 👋, I'm Kurt Gavin</h1>
 <h3 align="center">A passionate backend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/145105873/Pixel-GIF-Collection-II">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/78/49/0d784930fcf326f080df2ec15baccd49.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinlopez&label=Profile%20views&color=0e75b6&style=flat" alt="gavinlopez" /> </p>
 
