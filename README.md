@@ -14,7 +14,7 @@
 
 - 💬 Connect with me: www.linkedin.com/in/kurtgavin/
 
-- 🖥 Check my updated website: gavinlopez.github.io/kurt.git.io/
+- 🖥 Check my updated website: https://gavinlopez.github.io/kurtgavin/
 
 - 📞 Open for Consultations and Collaborations
 
