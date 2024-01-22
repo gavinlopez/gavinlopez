@@ -12,10 +12,9 @@
   - Web Development
   - Cloud Security
 
-- 💬 Connect with me and ask me: www.linkedin.com/in/kurtgavin/
-  -contact me and ask anything
+- 💬 Connect with me: www.linkedin.com/in/kurtgavin/
 
-- 📫 Check my updated website: gavinlopez.github.io/kurt.git.io/
+- 🖥 Check my updated website: gavinlopez.github.io/kurt.git.io/
 
 - 📞 Open for Consultations and Collaborations
 
@@ -26,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thinkaboutgav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thinkaboutgav" height="30" width="40" /></a>
-<a href="https://fb.com/kurt lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kurt lopez" height="30" width="40" /></a>
+<a href="https://twitter.com/strangeyunabiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thinkaboutgav" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kurtgvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kurt lopez" height="30" width="40" /></a>
 <a href="https://instagram.com/zzy.hoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zzy.hoon" height="30" width="40" /></a>
 <a href="https://www.behance.net/kurt gavin lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kurt gavin lopez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kurtgavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kurtgavin" height="30" width="40" /></a>
