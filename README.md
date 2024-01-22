@@ -7,13 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/thinkaboutgav" target="blank"><img src="https://img.shields.io/twitter/follow/thinkaboutgav?logo=twitter&style=for-the-badge" alt="thinkaboutgav" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Skilled:
+  - Data Science
+  - Web Development
+  - Cloud Security
 
-- 💬 Ask me about **Python, SQL, MacOS**
+- 💬 Ask me about **Python, SQL, Swift**
 
-- 📫 How to reach me **kurtgavin.design@gmail.com**
+- 📫 check my updated website: gavinlopez.github.io/kurt.git.io/
 
-- ⚡ Fun fact **Yunjin is my Girlfriend**
+- 📞 Open for Consultations and Collaborations
+
+- 🎵 Fun fact **I love listening to Orchestra**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
