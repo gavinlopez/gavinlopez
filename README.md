@@ -12,9 +12,10 @@
   - Web Development
   - Cloud Security
 
-- 💬 Ask me about **Python, SQL, Swift**
+- 💬 Connect with me and ask me: www.linkedin.com/in/kurtgavin/
+  -contact me and ask anything
 
-- 📫 check my updated website: gavinlopez.github.io/kurt.git.io/
+- 📫 Check my updated website: gavinlopez.github.io/kurt.git.io/
 
 - 📞 Open for Consultations and Collaborations
 
